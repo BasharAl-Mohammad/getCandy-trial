@@ -8,9 +8,11 @@
         "php": "^8.0.2",
         "getcandy/admin": "^2.0@beta",
         "guzzlehttp/guzzle": "^7.2",
+        "http-interop/http-factory-guzzle": "^1.2",
         "laravel/framework": "^9.19",
         "laravel/sanctum": "^3.0",
-        "laravel/tinker": "^2.7"
+        "laravel/tinker": "^2.7",
+        "meilisearch/meilisearch-php": "^0.24.2"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
